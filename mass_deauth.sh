@@ -1,6 +1,6 @@
 #!/bin/bash
 #Title: mass_deauth.sh
-#Description: Mass Deauth is a bash script for Linux systems that automates the process of deauthenticating all wireless networks in an area with the aircrack-ng suite.
+#Description: Mass Deauth is a bash script for Linux systems that automates the process of deauthenticating all wireless networks in an area utilizing the aircrack-ng suite.
 #Author: DENNISDGR
 #Version: 1.0.0
 
